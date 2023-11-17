@@ -1,6 +1,6 @@
 # translateのoriginalフォルダの作成
 prepare-original:
-	cp -r translate/en translate/original
+	cp -r translate/en/* translate/original/
 	find translate/original -type f -name "*_en.tsx" -exec sh -c 'for file; do mv "$$file" "$$(echo "$$file" | sed "s/_en.tsx$$/_original.tsx/")"; done' sh {} +
 
 # translateの"ZH-CN"を"ZH_CN"に置換
