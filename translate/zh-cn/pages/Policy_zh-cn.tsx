@@ -1,4 +1,4 @@
-export const Policy_ZH_CN = {
+export const Policy_ZH-CN = {
   "header": {
     "title": "饼干政策",
     "content": "Waseda University Nishimura研究所（以下简称“研究所”）是为了分析用户的网站使用情况并向单个客户提供自定义服务。使用cookie收集某些信息。"
@@ -23,4 +23,4 @@ export const Policy_ZH_CN = {
   }
 }
 
-export default Policy_ZH_CN
+export default Policy_ZH-CN
