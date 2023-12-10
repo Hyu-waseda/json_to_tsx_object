@@ -129,10 +129,12 @@ def translate_file(input_file, output_folder, target_language):
 if __name__ == "__main__":
     json_directory = "jsons"
     output_folder = "translate"
-    target_language = "tl"
-
+    target_languages = [
+    "ar"]
+    # arまで完了
     json_files = find_json_files(json_directory)
-    for input_file in json_files:
-        translate_file(input_file, output_folder, target_language)
+    for target_language in target_languages:
+        for input_file in json_files:
+            translate_file(input_file, output_folder, target_language)
 
 
