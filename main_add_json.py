@@ -120,12 +120,13 @@ def translate_file(input_file, output_folder, target_languages, output_file_name
             print("{} is translated.".format(target_language))
 
 if __name__ == "__main__":
-    input_file = "jsons/pages/Policy.json"
-    output_file_name = "Policy"
+    input_file = "jsons/pages/Index.json"
+    output_file_name = "Index"
     output_folder = "translate"
     sub_directory = "pages"
 
-    target_languages = ["en", "zh-cn", "es", "ar", "fr", "ja"]
+    # target_languages = ["en", "zh-cn", "es", "ar", "fr", "ja"]
+    target_languages = ["af", "am", "fi", "sq", "tl"]
 
     translate_file(input_file, output_folder, target_languages, output_file_name, sub_directory)
 
