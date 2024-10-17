@@ -18,8 +18,8 @@ export const Terms_FR = {
         "Les utilisateurs ne doivent pas effectuer les actions suivantes lors de l'utilisation de ce service.",
         "-Cactions qui violent les lois ou l'ordre public et la morale",
         "-Cactions liées aux actes criminels",
-        "-Le acte de détruire ou d'entraver les fonctions de serveur ou de réseau d'autres utilisateurs ou des utilisateurs de troisième partie de ce service",
-        "-Aactions qui peuvent interférer avec le fonctionnement de ce service",
+        "-Le acte de détruire ou de gêner les fonctions de serveur ou de réseau d'autres utilisateurs ou des utilisateurs de troisième partie de ce service",
+        "-Cactions qui peuvent interférer avec le fonctionnement de ce service",
         "-Aactions pour collecter ou accumuler des informations personnelles sur les autres utilisateurs",
         "-Un -Un accès ou tentatives non autorisées",
         "-Cactions pour fournir des bénéfices directement ou indirectement aux forces anti-sociales en relation avec les services de notre laboratoire",
@@ -38,7 +38,7 @@ export const Terms_FR = {
         "-Cactions visant à accorder des inconvénients, des dommages ou des inconforts à d'autres utilisateurs de ce service, ou d'autres utilisateurs de ce service",
         "-Ather agit en utilisant ce service à d'autres fins différentes de l'objectif d'utilisation prévue par ce service",
         "-Activité ou sollicitation religieuse à des groupes religieux",
-        "-Un autre agit que notre juge de laboratoire est inapproprié"
+        "-Ator agit que notre juge de laboratoire est inapproprié"
       ]
     },
     "section3": {
@@ -57,7 +57,7 @@ export const Terms_FR = {
       "content": [
         "Les utilisateurs utilisent uniquement ce service, publient ou téléchargent uniquement des informations sur les droits de propriété intellectuelle nécessaires tels que le droit d'auteur, ou uniquement les informations telles que les images, les images, etc. avec l'autorisation des détenteurs de droite nécessaires. Vous pouvez le faire.",
         "Les droits d'auteur tels que les phrases, les images, les images, etc. publiés par l'utilisateur à l'aide de ce service doivent être réservés à l'utilisateur ou à d'autres détenteurs de droits existants.Cependant, ce laboratoire est nécessaire pour publier ou télécharger des phrases, des images, des images, etc. en utilisant ce service pour l'amélioration, l'amélioration de la qualité, les corrections de carences et la publicité publique de ce service. Il sera disponible dans la gamme et l'utilisateur ne doit pas exercer les droits du personnel de l'auteur concernant cette utilisation.",
-        "À l'exception du paragraphe précédent, tous les droits d'auteur et autres droits de propriété intellectuelle de toutes les informations relatives à ce service et ce service appartiennent au bon titulaire qui a permis l'utilisation de ce laboratoire ou du laboratoire, les utilisateurs ne doivent pas dupliquer, le transfert, les prêts, Traduction, modification, réimpression, transmission publique (y compris la transmission), transmission, distribution, publication, utilisation professionnelle, etc."
+        "À l'exception du paragraphe précédent, tous les droits de droit d'auteur et autres droits de propriété intellectuelle de toutes les informations relatives à ce service et ce service appartiennent au bon titulaire qui a permis l'utilisation de ce laboratoire ou du laboratoire, les utilisateurs ne doivent pas dupliquer, transférer, prêter, Traduction, modification, réimpression, transmission publique (y compris la transmission), transmission, distribution, publication, utilisation professionnelle, etc."
       ]
     },
     "section5": {
@@ -87,21 +87,21 @@ export const Terms_FR = {
     "section8": {
       "title": "Article 8 (changement de conditions d'utilisation)",
       "content": [
-        "Dans les cas suivants, le laboratoire peut modifier ces conditions sans le consentement individuel de l'utilisateur.",
+        "Dans les cas suivants, le laboratoire peut modifier ces termes sans le consentement individuel de l'utilisateur.",
         "Lorsque le changement de ces termes est conforme à l'intérêt général de l'utilisateur.",
-        "Le changement en ces termes est rationnel à la lumière du but de ce contrat d'utilisation de service, et à la lumière de la nécessité de modifications, de l'équivalent du contenu après le changement et des autres changements."
+        "Le changement dans ces termes est rationnel à la lumière du but de ce contrat d'utilisation de service et, à la lumière de la nécessité de modifications, de l'équivalent du contenu après le changement et des autres changements."
       ]
     },
     "section9": {
       "title": "Article 9 (Gestion des informations personnelles)",
       "content": [
-        "Le laboratoire sera traité de manière appropriée pour les informations personnelles obtenues par l'utilisation de ce service en fonction du laboratoire \"Politique de confidentialité\"."
+        "Le laboratoire doit être traité de manière appropriée pour les informations personnelles obtenues grâce à l'utilisation de ce service en fonction du laboratoire \"Politique de confidentialité\"."
       ]
     },
     "section10": {
       "title": "Article 10 (interdiction des obligations de transfert de droits)",
       "content": [
-        "L'utilisateur ne peut pas transférer ou fournir les droits ou les obligations en fonction de ces conditions à des tiers sans consentement préalable en laboratoire à l'avance."
+        "L'utilisateur ne peut pas transférer ou fournir les droits ou les obligations en fonction de ces conditions à des tiers sans consentement préalable dans le laboratoire à l'avance."
       ]
     },
     "section11": {

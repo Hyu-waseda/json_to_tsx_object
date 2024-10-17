@@ -63,7 +63,7 @@ export const Terms_EN = {
     "section5": {
       "title": "Article 5 (Usage limit and registration deletion)",
       "content": [
-        "If the user falls under any of the following, we will delete the posting data without prior notice and limit the use of the Service to the user.Masu.",
+        "If the user falls under any of the following, we may delete the post data without prior notice and limit the use of this service to the user.Masu.",
         "-If you violate any of the terms of these Terms",
         "-In addition, if our laboratory determines that the use of this service is not appropriate",
         "The laboratory is not liable for any damages caused by the lab based on this Article."
@@ -95,7 +95,7 @@ export const Terms_EN = {
     "section9": {
       "title": "Article 9 (handling of personal information)",
       "content": [
-        "The laboratory shall be handled appropriately for personal information obtained by the use of this service according to the Laboratory \"Privacy Policy\"."
+        "The laboratory shall be handled appropriately for personal information obtained through the use of this service according to the Laboratory \"Privacy Policy\"."
       ]
     },
     "section10": {

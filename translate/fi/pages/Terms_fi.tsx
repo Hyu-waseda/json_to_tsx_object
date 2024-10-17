@@ -16,7 +16,7 @@ export const Terms_FI = {
       "title": "2 artikla (kielto)",
       "content": [
         "Käyttäjät eivät saa suorittaa seuraavia toimintoja tätä palvelua käytettäessä.",
-        "-Toimet, jotka rikkovat lakeja tai julkista järjestystä ja moraalia",
+        "-Toimia, jotka rikkovat lakeja tai julkista järjestystä ja moraalia",
         "-Toimia, jotka liittyvät rikollisiin tekoihin",
         "-Tämän palvelun muiden käyttäjien tai kolmannen puolueen käyttäjien palvelin- tai verkkotoimintojen tuhoaminen tai estäminen",
         "-Toimet, jotka voivat häiritä tämän palvelun toimintaa",

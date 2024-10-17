@@ -1,7 +1,7 @@
 export const Policy_FI = {
   "header": {
     "title": "Evästekäytäntö",
-    "content": "Wasedan yliopiston Nishimura Research Institute (jäljempänä \"tutkimusinstituutti\") tarkoitetaan käyttäjän verkkosivuston käyttöä ja tarjoamaan räätälöityjä palveluita yksittäisille asiakkaille. Käytä evästettä tiettyjen tietojen keräämiseen."
+    "content": "Wasedan yliopiston Nishimura Research Institute (jäljempänä \"tutkimusinstituutti\") on tarkoitettu analysoida käyttäjän verkkosivuston käyttöä ja tarjota räätälöityjä palveluita yksittäisille asiakkaille. Käytä evästettä tiettyjen tietojen keräämiseen."
   },
   "sections": {
     "section1": {

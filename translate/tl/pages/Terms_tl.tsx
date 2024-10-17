@@ -21,7 +21,7 @@ export const Terms_TL = {
         "-Ang kilos ng pagsira o hadlangan ang mga pag -andar ng server o network ng iba pang mga gumagamit o pangatlong -party na gumagamit sa serbisyong ito",
         "-ACTIONS na maaaring makagambala sa pagpapatakbo ng serbisyong ito",
         "-ACTIONS upang mangolekta o makaipon ng personal na impormasyon tungkol sa iba pang mga gumagamit",
-        "-An -unauthorized access o mga pagtatangka",
+        "-An -unauthorized access o pagtatangka",
         "-ACTIONS upang magbigay ng kita nang direkta o hindi tuwiran sa mga anti -Social na puwersa na may kaugnayan sa mga serbisyo ng aming laboratoryo",
         ".",
         "Ang kilos ng pag -post o pagpapadala ng mga nilalaman na tinutukoy ng laboratoryo upang isama ang mga sumusunod na expression o kasama sa serbisyong ito",
@@ -87,7 +87,7 @@ export const Terms_TL = {
     "section8": {
       "title": "Artikulo 8 (Pagbabago ng Mga Tuntunin ng Paggamit)",
       "content": [
-        "Sa mga sumusunod na kaso, maaaring baguhin ng laboratoryo ang mga term na ito nang walang pahintulot ng gumagamit.",
+        "Sa mga sumusunod na kaso, maaaring baguhin ng laboratoryo ang mga term na ito nang walang indibidwal na pahintulot ng gumagamit.",
         "Kapag ang pagbabago ng mga term na ito ay umaayon sa pangkalahatang interes ng gumagamit.",
         "Ang pagbabago sa mga term na ito ay makatuwiran sa layunin ng kontrata sa paggamit ng serbisyo na ito, at sa pangangailangan ng mga pagbabago, katumbas ng nilalaman pagkatapos ng pagbabago, at iba pang mga pagbabago."
       ]

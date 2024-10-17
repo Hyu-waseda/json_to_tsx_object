@@ -25,7 +25,7 @@ export const Terms_ES = {
         "-Colciones para proporcionar ganancias directa o indirectamente a las fuerzas antisociales en relación con los servicios de nuestro laboratorio",
         "-Colciones que infringen los derechos de propiedad intelectual, los derechos del retrato, la privacidad y los otros derechos o intereses de otros usuarios o terceros usuarios o terceros de este servicio",
         "El acto de publicar o transmitir los contenidos determinados por el laboratorio para incluir las siguientes expresiones o incluido en este servicio",
-        "- Expresión de la misma manera violenta",
+        "\"Expresión de la misma manera violenta",
         "-So -So -Splosated Sexual Expression",
         "-En expresión que conduce a la discriminación por raza, nacionalidad, credo, género, estatus social, puertas, etc.",
         "-En expresión que atrae o promueve suicidio, autoshalamiento, abuso de drogas",
@@ -33,10 +33,10 @@ export const Terms_ES = {
         "El acto de juzgar por nuestro laboratorio para el propósito o para el propósito",
         "-ACTIONES PARA VENTAS, Publicidad, publicidad, solicitud y otros fines (excluyendo las aprobadas por nuestro laboratorio)",
         "-Cosses para el propósito de la actividad sexual y la obscenidad",
-        "-Un actos destinados a encontrar y salir con el sexo opuesto sin saber",
+        "-Un actos destinados a encontrarse y salir con el sexo opuesto sin saber",
         "-ACTIONES dirigidas al acoso y la calumnia de otros usuarios",
-        "-Colciones destinadas a dar desventajas, daños o incomodidad a otros usuarios en este servicio u otros usuarios en este servicio",
-        "-Otros actos utilizan este servicio para otros fines diferentes del propósito de uso planificado por este servicio",
+        "-Colciones destinadas a dar desventajas, daños o molestias a otros usuarios en este servicio u otros usuarios en este servicio",
+        "-Otros actos que utilizan este servicio para otros fines diferentes del propósito del uso planeado por este servicio",
         "-La actividad o solicitud religiosa para grupos religiosos",
         "-Otros actos que nuestro juez de laboratorio es inapropiado"
       ]
@@ -44,7 +44,7 @@ export const Terms_ES = {
     "section3": {
       "title": "Artículo 3 (suspensión de la provisión de este servicio, etc.)",
       "content": [
-        "El laboratorio puede suspender o suspender todos o parte de los servicios sin ninguna de las siguientes razones para lo siguiente.",
+        "El laboratorio puede suspender o suspender todo o parte de los servicios sin ninguna de las siguientes razones para lo siguiente.",
         "-Ascara que el sistema informático para este servicio mantenga o actualice el sistema informático",
         "-Cuando este servicio es difícil debido a la fuerza mayor, como terremotos, rayos, fuego, apagón o desastres naturales,",
         "-Cuando una computadora o línea de comunicación se detiene debido a un accidente",
@@ -57,7 +57,7 @@ export const Terms_ES = {
       "content": [
         "Los usuarios solo usan este servicio, publican o cargan información sobre los derechos de propiedad intelectual necesarios, como los derechos de autor, o solo la información como imágenes, imágenes, etc. con el permiso de los titulares de derecho necesarios. Puede hacerlo.",
         "Los derechos de autor, como oraciones, imágenes, imágenes, etc. publicadas por el usuario, utilizando este servicio, se reservarán al usuario u otros titulares de derecho existentes.Sin embargo, este laboratorio es necesario para publicar o cargar oraciones, imágenes, imágenes, etc. utilizando este servicio para mejoras, mejora de la calidad, correcciones de deficiencias y publicidad pública de este servicio. Estará disponible en el rango y el usuario no ejercerá los derechos de personal del autor con respecto a este uso.",
-        "Excepto por el párrafo anterior, todos los derechos de autor y otros derechos de propiedad intelectual de toda la información relacionada con este servicio y este servicio pertenece al titular adecuado que ha permitido el uso de este laboratorio o el laboratorio. Los usuarios no deberán duplicar, transferir, préstamos,, Traducción, modificación, reimpresión, transmisión, distribución, publicación, uso comercial, etc. sin permiso."
+        "Excepto por el párrafo anterior, todos los derechos de autor y otros derechos de propiedad intelectual de toda la información relacionada con este servicio y este servicio pertenece al titular adecuado que ha permitido el uso de este laboratorio o el laboratorio. Los usuarios no deberán duplicar, transferir, préstamos,, Traducción, modificación, reimpresión, transmisión pública (incluida la transmisión), transmisión, distribución, publicación, uso comercial, etc."
       ]
     },
     "section5": {

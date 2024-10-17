@@ -14,7 +14,7 @@ export const Policy_TL = {
     "section2": {
       "title": "2.Layunin ng paggamit ng cookies",
       "content": [
-        "Sa aming laboratoryo, maaari naming gamitin ang impormasyong nakolekta gamit ang cookies upang mapabuti at mapabuti ang mga serbisyong ibinigay."
+        "Sa aming laboratoryo, maaari naming gamitin ang impormasyong nakolekta gamit ang cookies upang mapagbuti at mapabuti ang mga serbisyong ibinigay."
       ]
     }
   },
